@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
+January 3, 2018
+Day 0: 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: FreeCodeCamp exercises for an hour
+**Thoughts:**Working through the exercises was very helpful in understanding how each step builds on previous ones.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** As I am just beginning I have no actual work to link, but this is just my first round. I will get there!
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
